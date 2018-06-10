@@ -36,7 +36,8 @@ For now, all ERI public keys still use the `EOS` prefix.
 ## Code
 
 The current code for Eris can be found on Github in the following
-repository: `https://github.com/erisblockchain/eris`.
+repository:
+[https://github.com/erisblockchain/eris](https://github.com/erisblockchain/eris).
 
 The live network uses the tag `v1.0.2.2`.
 
@@ -45,7 +46,9 @@ The live network uses the tag `v1.0.2.2`.
 ### Metadata
 
 Git tag: `v1.0.2.2`
+
 Git SHA: `002001a39dd2b62c15e08839df9edfba62207ebc`
+
 Chain ID: `479b037a1581b547e99e4f357e2effe95162733a2b1a8c459c3487d793c08975`
 
 ### Peers list
@@ -86,8 +89,11 @@ Chain ID: `479b037a1581b547e99e4f357e2effe95162733a2b1a8c459c3487d793c08975`
 ## Contact
 
 Github: @teamerisblockchain
+
 Email: teameris@protonmail.com
+
 Telegram: @teameris
+
 Telegram group: https://t.me/erisblockchain
 
 ### PGP Public key
