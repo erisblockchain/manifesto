@@ -2,17 +2,28 @@ Hello,
 
 We are Team Eris, and today we're announcing the Eris blockchain, a
 fork of the EOS smart contract platform. Eris includes all of the
-performance benfits of EOS, along with a uniform token allocation. All
-ICO token holders of EOS are granted exactly 1,000 ERI tokens on the
-Eris blockchain.
+performance benfits of EOS, along with a uniform token
+allocation. Since large token holders are canceled out, this forces
+block producers to actually have to convince the community of their
+worthiness. This also means Block.one, the company, does not have
+influence over Eris.
+
+On Eris, all ICO token holders of EOS are granted exactly 1,000 ERI
+tokens.
 
 Additionally, Eris differs from EOS in the following ways:
 - Eris eliminates the EOS savings or "worker proposal" fund. Instead,
-  exactly 1% of ERI token inflation is awarded to block producers.
-- The minimum staked tokens amount has been changed to 1,000,000.
-- The constitution has been eliminated.
+  exactly 1% of ERI token inflation is awarded to block
+  producers. This makes Eris a better store of value than EOS, since
+  the inflation rate for ERI is just 1%, in comparison to 5% with EOS.
+- The constitution has been eliminated. Written digital consitutions
+  cannot be enforced. Code is law until blockchain governance is a
+  solved problem.
+- The minimum staked tokens amount has been changed to 1,000,000. This
+  was done so we could launch the network privately.
 
-The Eris mainnet is already live and ready to accept users,
+Eris is the first functioning blockchain based on the EOS
+codebase. The mainnet is already live and ready to accept users,
 developers, and block producers. Please see the sections below for
 information about hosting nodes and claiming your tokens.
 
@@ -39,15 +50,15 @@ The current code for Eris can be found on Github in the following
 repository:
 [https://github.com/erisblockchain/eris](https://github.com/erisblockchain/eris).
 
-The live network uses the tag `v1.0.2.2`.
+The live network uses the tag `v1.0.2.3`.
 
 ## Mainnet
 
 ### Metadata
 
-Git tag: `v1.0.2.2`
+Git tag: `v1.0.2.3`
 
-Git SHA: `002001a39dd2b62c15e08839df9edfba62207ebc`
+Git SHA: `25e10f5cbcb4357d6b1fcd17a21e5c5101b25630`
 
 Chain ID: `479b037a1581b547e99e4f357e2effe95162733a2b1a8c459c3487d793c08975`
 
@@ -87,6 +98,10 @@ Chain ID: `479b037a1581b547e99e4f357e2effe95162733a2b1a8c459c3487d793c08975`
 ```
 
 ## Contact
+
+Eris: teameris111
+
+Twitter: @eris_team
 
 Github: @teamerisblockchain
 
